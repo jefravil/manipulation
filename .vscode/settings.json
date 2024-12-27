@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jefferson/manipulation_ws/devel/lib/python3/dist-packages",
+        "/home/jefferson/navegation_ws/devel/lib/python3/dist-packages",
+        "/home/jefferson/ros_theconstruct_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jefferson/manipulation_ws/devel/lib/python3/dist-packages",
+        "/home/jefferson/navegation_ws/devel/lib/python3/dist-packages",
+        "/home/jefferson/ros_theconstruct_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

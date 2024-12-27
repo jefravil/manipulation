@@ -1,0 +1,7 @@
+# Ignorar carpetas de compilación
+build/
+devel/
+
+# Otros archivos comunes de ROS que suelen ignorarse
+install/
+logs/
